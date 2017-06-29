@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _01.Defining_Classes
 {
-    class DefineBankAccountClass
+    class Startup
     {
         static void Main()
         {

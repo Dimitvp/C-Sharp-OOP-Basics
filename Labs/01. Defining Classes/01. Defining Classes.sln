@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Define Bank Account Cla
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Methods", "02. Methods\02. Methods.csproj", "{173A4682-309B-457C-B27E-AD73190CB9F8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Test Client", "03. Test Client\03. Test Client.csproj", "{6AF0CB51-238D-456E-B736-9FF51797D706}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Define Person Class", "04. Define Person Class\04. Define Person Class.csproj", "{59C747EE-7432-4CF0-BDCC-DAC102E38DCF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{173A4682-309B-457C-B27E-AD73190CB9F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{173A4682-309B-457C-B27E-AD73190CB9F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{173A4682-309B-457C-B27E-AD73190CB9F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AF0CB51-238D-456E-B736-9FF51797D706}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AF0CB51-238D-456E-B736-9FF51797D706}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AF0CB51-238D-456E-B736-9FF51797D706}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AF0CB51-238D-456E-B736-9FF51797D706}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59C747EE-7432-4CF0-BDCC-DAC102E38DCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59C747EE-7432-4CF0-BDCC-DAC102E38DCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59C747EE-7432-4CF0-BDCC-DAC102E38DCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59C747EE-7432-4CF0-BDCC-DAC102E38DCF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
