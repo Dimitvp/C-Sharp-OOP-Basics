@@ -15,7 +15,7 @@ public abstract class Provider
     protected string Id
     {
         get { return this.id; }
-         set
+        set
         {
             this.id = value;
         }
